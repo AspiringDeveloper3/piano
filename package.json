@@ -9,6 +9,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
+    "tone": "^14.7.77",
+    "tonic-js": "^1.0.6",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
